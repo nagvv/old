@@ -1,7 +1,7 @@
 # old
 Old stuff (may not work) from The Dark Epoch Of The School.
 
-eclipse java projects.
+
 --------------------------------------
 buildertest:
 	The program for solving Sudoku 9x9.
@@ -24,3 +24,5 @@ Teller:
 	A simple messenger. The IP address is used to indicate the recipient of the message.
 	
 (Wololo google translated)
+
+These are eclipse java projects.
